@@ -1,4 +1,4 @@
-# Asynchronous Advantage Actor-Critic with Communication
+# Asynchronous Advantage Actor-Critic with Communication in TensorFlow 2
 
 The source-code used on the paper **Multi-Agent Reinforcement Deep Learning with Emergent Communication**, published on [IJCNN'19](https://www.ijcnn.org/). The paper describes the A3C2 algorithm, for multi-agent learning, with communication.
 
